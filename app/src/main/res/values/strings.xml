@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWebServicesApp</string>
+    <string name="webServiceTitle">Código e Información municipal de Colombia</string>
+    <string name="textSelectDepartment">Selecciona un departamento de la lista</string>
+    <string name="textSelectMunicipality">Selecciona un Municipio del departamento</string>
+    <string name="textMunicipalityList">Municipios</string>
+</resources>
